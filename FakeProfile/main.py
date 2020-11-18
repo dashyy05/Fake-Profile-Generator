@@ -30,6 +30,5 @@ def mainThing():
         print("Phone number:",phoneNumber)
         print("Fav color:",fav_color)
     printInfos()
-
-
+    
 mainThing()
